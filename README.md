@@ -4,7 +4,8 @@
 This project is just a USB -> UART -> USB converter using ESP32E. Thats simple project you get the same signals everywhere but this is cool and stupid :)
 
 
-##SCREENS
+## SCREENS
+
 <img width="947" height="621" alt="Zrzut ekranu 2026-06-12 084100" src="https://github.com/user-attachments/assets/61ed7557-b759-49bb-8b8d-e9cef8798ae7" />
 <img width="858" height="722" alt="Zrzut ekranu 2026-06-12 084052" src="https://github.com/user-attachments/assets/50b1c8d9-998d-4333-909b-8aa5cf28b67a" />
 <img width="984" height="775" alt="Zrzut ekranu 2026-06-12 084046" src="https://github.com/user-attachments/assets/adc6a939-8201-4cd5-89f4-c4fcee7bde62" />
@@ -12,6 +13,7 @@ This project is just a USB -> UART -> USB converter using ESP32E. Thats simple p
 
 
 ## BOM
+
 | References         | Value           | Footprint                     | Quantity |
 |-------------------|-----------------|-------------------------------|---------:|
 | C3, C4, C6, C7, C8 | 0.1uF          | C_0805_2012Metric             |        5 |
